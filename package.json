@@ -1,7 +1,7 @@
 {
   "name": "bubble-choco.github.io",
-  "homepage": "https://bubble-choco.github.io",
   "version": "0.1.0",
+  "homepage": "https://bubble-choco.github.io",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.10.0",
