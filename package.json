@@ -1,6 +1,7 @@
 {
   "name": "bubble-choco.github.io",
   "version": "0.1.0",
+  "private": true,
   "homepage": "https://bubble-choco.github.io",
   "dependencies": {
     "gh-pages": "^2.1.1",
@@ -14,7 +15,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "yarn run build",
-    "deploy": "gh-pages --branch master -d build"
+    "deploy": "gh-pages -b master -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
